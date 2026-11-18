@@ -17,3 +17,7 @@ Version 3.0.0
 Hello! SLTC
 This is from the development branch
 ```
+
+## Build the demo
+
+Run `go build -o gitgenius-demo main.go` from the repository root to create a standalone executable.
